@@ -1,0 +1,71 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>reporte-anual.png</file>
+    <file>usuario.png</file>
+    <file>agregar.png</file>
+    <file>agregar-usuario.png</file>
+    <file>biblioteca-en-linea.png</file>
+    <file>book_1125523.png</file>
+    <file>bookcrossing_10292218.png</file>
+    <file>books_13330461.png</file>
+    <file>dashboard-icons.png</file>
+    <file>devolver.png</file>
+    <file>hogar.png</file>
+    <file>iconos-del-tablero.png</file>
+    <file>icons8-casa-48.png</file>
+    <file>inventario (1).png</file>
+    <file>inventario (2).png</file>
+    <file>inventario.png</file>
+    <file>library_3297812.png</file>
+    <file>library_8293588.png</file>
+    <file>libro.png</file>
+    <file>libro-abierto.png</file>
+    <file>librogfdsgsdg0.png</file>
+    <file>libroggg.png</file>
+    <file>libros (1).png</file>
+    <file>libros.png</file>
+    <file>llibronegro.jpg</file>
+    <file>menu (1).png</file>
+    <file>menu.png</file>
+    <file>menu_8917404.png</file>
+    <file>notificacion (1).png</file>
+    <file>notificacion.png</file>
+    <file>pedir-prestado.png</file>
+    <file>pila-de-libros.png</file>
+    <file>return_5597034.png</file>
+    <file>return_5597045.png</file>
+    <file>seguidores.png</file>
+    <file>usuario.png</file>
+    <file>agregar.png</file>
+    <file>agregar-usuario.png</file>
+    <file>biblioteca-en-linea.png</file>
+    <file>agregar.png</file>
+    <file>agregar-usuario.png</file>
+    <file>biblioteca-en-linea.png</file>
+    <file>books_13330461.png</file>
+    <file>dashboard-icons.png</file>
+    <file>devolver.png</file>
+    <file>hogar.png</file>
+    <file>iconos-del-tablero.png</file>
+    <file>icons8-casa-48.png</file>
+    <file>inventario (1).png</file>
+    <file>inventario (2).png</file>
+    <file>inventario.png</file>
+    <file>library_3297812.png</file>
+    <file>library_8293588.png</file>
+    <file>libro.png</file>
+    <file>librogfdsgsdg0.png</file>
+    <file>libros (1).png</file>
+    <file>libros.png</file>
+    <file>llibronegro.jpg</file>
+    <file>menu (1).png</file>
+    <file>menu.png</file>
+    <file>menu_8917404.png</file>
+    <file>notificacion (1).png</file>
+    <file>notificacion.png</file>
+    <file>pedir-prestado.png</file>
+    <file>pila-de-libros.png</file>
+    <file>return_5597034.png</file>
+    <file>return_5597045.png</file>
+  </qresource>
+</RCC>
